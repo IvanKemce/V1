@@ -9,7 +9,7 @@
     "BotKey": "V12",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
-    "autobio": true,
+    "autobio": false,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
